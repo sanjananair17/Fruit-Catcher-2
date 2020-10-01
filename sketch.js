@@ -48,7 +48,7 @@ function draw() {
      game.end();
    }
 
-   fill("white");
-   text("Score: "+score1, 50, 70);
-   text("Score: "+score2, 50, 90);
+   /*fill("white");
+   text("Player 1: "+score1, 50, 70);
+   text("Player 2: "+score2, 50, 90);*/
 }
